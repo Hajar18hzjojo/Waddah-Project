@@ -37,3 +37,10 @@ Copyright © 2026 by Hajar Al-Herz and Group C (Oswah Community).
 This project is displayed here for **portfolio purposes only**. 
 
 **All rights reserved.** The source code, detailed hardware schematics, and full documentation are **proprietary** and are not available for public distribution, modification, or commercial use. Any unauthorized use of the project's visual identity or concepts is strictly prohibited under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)**.
+---
+## 📸 Project Showcase
+<p align="center">
+  <img src="External model and packaging.PNG" width="400" title="Waddah Exterior">
+  <img src="Internal model.PNG" width="400" title="Waddah Interior">
+  <img src="Installation method.PNG" width="400" title="Installation Diagram">
+</p>
